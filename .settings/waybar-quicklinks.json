@@ -1,0 +1,33 @@
+{
+  "custom/quicklink1": {
+    "format": " ",
+    "on-click": "brave",
+    "tooltips-format": "Open Brave"
+  },
+  "custom/quicklink2": {
+    "format": " ",
+    "on-click": "firefox",
+    "tooltips-format": "Open firefox"
+  },
+  "custom/quicklink3": {
+    "format": " ",
+    "on-click": "~/dotfiles/.settings/filemanager.sh",
+    "tooltip-format": "Open flemanager"
+  },
+  "custom/quicklink4": {
+    "format": " ",
+    "on-click": "betterbird",
+    "tooltips-format": "Open Betterbird"
+  },
+  "custom/quicklinkempty": {
+
+  },
+  "group/quicklinks": {
+    "orientation": "horizontal",
+    "modules": [
+      "custom/quicklink2",
+      "custom/quicklink3",
+      "custom/quicklinkempty"
+    ]
+  }
+}

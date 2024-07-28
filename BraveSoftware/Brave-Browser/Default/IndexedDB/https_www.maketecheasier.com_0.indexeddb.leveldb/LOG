@@ -1,0 +1,7 @@
+2024/07/17-20:17:11.142 2055 Reusing MANIFEST /home/stickyfluid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.maketecheasier.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/17-20:17:11.142 2055 Recovering log #3
+2024/07/17-20:17:11.143 2055 Reusing old log /home/stickyfluid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.maketecheasier.com_0.indexeddb.leveldb/000003.log 
+2024/07/17-20:17:15.156 2056 Level-0 table #5: started
+2024/07/17-20:17:15.158 2056 Level-0 table #5: 10844 bytes OK
+2024/07/17-20:17:15.161 2056 Delete type=0 #3
+2024/07/17-20:17:15.161 2056 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

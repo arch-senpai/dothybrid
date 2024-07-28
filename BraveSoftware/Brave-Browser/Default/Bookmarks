@@ -1,0 +1,581 @@
+{
+   "checksum": "c47199557167f8092093979624bcf06e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13261774291000000",
+            "date_last_used": "0",
+            "guid": "53afec0a-5149-44a8-be85-8c8a3e233f56",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://www.google.com/search?q=MikroTik+Neighbor+Discovery+protocol+%28MNDP%29+download&sxsrf=ALeKk02CMpEHliM0iSdAfrtEQN31aqQT_g%3A1617299862562&ei=lglmYO3-IZKp8gKl9bqABQ&oq=MikroTik+Neighbor+Discovery+protocol+%28MNDP%29+download&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAE6BwgAEEcQsAM6BwgjEK4CECdQzjdYrExguU5oAXACeACAAbwDiAGzGZIBBzItMi4zLjSYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjtoba-z93vAhWSlFwKHaW6DlAQ4dUDCA0&uact=5"
+         }, {
+            "date_added": "13314961674000000",
+            "date_last_used": "13365978020740597",
+            "guid": "ead4c262-a573-45f5-bd75-0b2949a60334",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "children": [ {
+               "date_added": "13358768379000000",
+               "date_last_used": "0",
+               "guid": "3ea08e62-8646-4285-8836-662254ce1361",
+               "id": "650",
+               "name": "BackBox.org – A Free Open Source Community Project",
+               "type": "url",
+               "url": "https://www.backbox.org/"
+            }, {
+               "date_added": "13358768454000000",
+               "date_last_used": "0",
+               "guid": "638898fd-42ad-4dd6-bb55-51982ed8f476",
+               "id": "651",
+               "name": "Setting Up A Local Lab | Penetration Testing (Attacker & Targets) ~ VulnHub",
+               "type": "url",
+               "url": "https://www.vulnhub.com/lab/pentest/#attacker"
+            }, {
+               "date_added": "13358768465000000",
+               "date_last_used": "0",
+               "guid": "3a10415c-f691-4fcc-b833-e70040128b8f",
+               "id": "652",
+               "name": "So Simple: 1 ~ VulnHub",
+               "type": "url",
+               "url": "https://www.vulnhub.com/entry/so-simple-1,515/"
+            }, {
+               "date_added": "13358768769000000",
+               "date_last_used": "0",
+               "guid": "5fcb84d1-5dc4-4c4a-ac14-a1bccdf69976",
+               "id": "653",
+               "name": "cheking  checksums",
+               "type": "url",
+               "url": "https://www.vulnhub.com/faq/#checksum"
+            }, {
+               "date_added": "13358769184000000",
+               "date_last_used": "0",
+               "guid": "a519495c-e424-45d8-887c-2a47c29d37e4",
+               "id": "654",
+               "name": "checksums",
+               "type": "url",
+               "url": "https://implbits.com/hashtab"
+            }, {
+               "date_added": "13358811926000000",
+               "date_last_used": "0",
+               "guid": "efb59247-85d3-4f68-9495-69dcfe699e5b",
+               "id": "655",
+               "name": "So Simple: 1 ~ VulnHub",
+               "type": "url",
+               "url": "https://www.vulnhub.com/entry/so-simple-1,515/#top"
+            }, {
+               "date_added": "13361317948000000",
+               "date_last_used": "0",
+               "guid": "c7f2398d-f00c-493a-b48c-ea6a109e384c",
+               "id": "656",
+               "name": "raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Arch/armhf/arch.sh",
+               "type": "url",
+               "url": "https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Arch/armhf/arch.sh"
+            }, {
+               "date_added": "13363209436000000",
+               "date_last_used": "0",
+               "guid": "c2c0c61e-b497-45aa-8935-68b4e59eba65",
+               "id": "657",
+               "name": "linux for hackers",
+               "type": "url",
+               "url": "https://bus.wev.mybluehost.me/linux-for-hackers/"
+            } ],
+            "date_added": "13364178464026324",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "cca4c304-a3eb-405c-bc43-d615c9908240",
+            "id": "649",
+            "name": "pentestig",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363209546000000",
+               "date_last_used": "0",
+               "guid": "13b10518-d45a-4f53-a838-dcc7eef28ddf",
+               "id": "663",
+               "name": "Search",
+               "type": "url",
+               "url": "https://www.bing.com/images/search?q=&view=detailv2&id=6FB93AA33D57F95531C6BD5683D6BF31136AE041&ccid=cZqJr1HX&iss=fav&FORM=SVIM01&idpview=singleimage&mediaurl=https%253a%252f%252fwww.japimportsuk.com%252fwp-content%252fuploads%252f2019%252f05%252f37297b97-dda2-4d57-8dd5-d742c8dacaa4.jpg&expw=1600&exph=1200&thid=OIP.cZqJr1HXZNqTeeiFf3_bcwHaFj"
+            } ],
+            "date_added": "13364178464026795",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "725e81be-4a6d-4213-8c92-d84f93448971",
+            "id": "662",
+            "name": "dream car",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13331077013000000",
+               "date_last_used": "0",
+               "guid": "69e2cde4-8d41-4028-9ab2-2e13493cbb8b",
+               "id": "665",
+               "name": "+447787250202 UK Number - AnonymSMS",
+               "type": "url",
+               "url": "https://anonymsms.com/number/447787250202/"
+            }, {
+               "date_added": "13330311164000000",
+               "date_last_used": "0",
+               "guid": "aecc1743-49de-4fcc-b8fe-89a33a475577",
+               "id": "666",
+               "name": "UK Phone Number +447893932865 | Receive Temp SMS",
+               "type": "url",
+               "url": "https://tempsmss.com/receive-sms/uk-temp-number-receive-sms-447893932865/"
+            } ],
+            "date_added": "13364178464026924",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0eb9fdad-bdf2-4b18-a1fa-c8400132289a",
+            "id": "664",
+            "name": "uk phone numbers",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13362529055000000",
+               "date_last_used": "0",
+               "guid": "d4d375d5-8117-43f8-addc-177e036d580c",
+               "id": "668",
+               "name": "Shrouding The Heavens Episode 20 English Sub - Lucifer Donghua.in - Watch Online: Chinese Anime / Donghua - Japanese",
+               "type": "url",
+               "url": "https://luciferdonghua.in/shrouding-the-heavens-episode-20-subtitle/"
+            }, {
+               "date_added": "13330557918000000",
+               "date_last_used": "0",
+               "guid": "5c9ad14b-01c4-4662-a946-6dee6c4f2467",
+               "id": "669",
+               "name": "KREEPTURES | Gothic Plush Toys & Teddy Bears | Killstar",
+               "type": "url",
+               "url": "https://us.killstar.com/collections/kreeptures"
+            }, {
+               "date_added": "13246312925000000",
+               "date_last_used": "0",
+               "guid": "42a93947-3c33-4bb1-9312-d359a9b53d10",
+               "id": "670",
+               "name": "HLJ.com - The Worlds Largest Online Hobby, Toy and Figure Shop",
+               "type": "url",
+               "url": "https://www.hlj.com/"
+            }, {
+               "date_added": "13298287827000000",
+               "date_last_used": "0",
+               "guid": "fbb0b2a9-c18d-4206-975e-1a902c7c29c8",
+               "id": "671",
+               "name": "SubsPlease – One stop shop for new anime",
+               "type": "url",
+               "url": "https://subsplease.org/"
+            }, {
+               "date_added": "13356123087000000",
+               "date_last_used": "0",
+               "guid": "8b50e8b4-ae33-4768-8a38-c38d18e7b7a9",
+               "id": "672",
+               "name": "Lucifer Donghua.in - Watch Online: Chinese Anime / Donghua - Japanese - Watch Chinese Anime Donghua / Japanese Anime In English Sub all Series, Movies, Soul Land 2, BTTH Watch Ads Free",
+               "type": "url",
+               "url": "https://luciferdonghua.in/"
+            }, {
+               "date_added": "13363905762000000",
+               "date_last_used": "0",
+               "guid": "f058bc59-6966-44ce-a118-6399a5a08100",
+               "id": "673",
+               "name": "A Record Of Mortal’s Journey To Immortality Season 2 [Special] - Lucifer Donghua.in - Watch Online: Chinese Anime / Donghua - Japanese",
+               "type": "url",
+               "url": "https://luciferdonghua.in/anime/a-record-of-mortals-journey-to-immortality-season-2-special/"
+            }, {
+               "date_added": "13363905788000000",
+               "date_last_used": "0",
+               "guid": "4c118160-e092-4b59-bece-7dc1de448c89",
+               "id": "674",
+               "name": "[Remake] A Record Of Mortal’s Journey To Immortality [MCB] - Lucifer Donghua.in - Watch Online: Chinese Anime / Donghua - Japanese",
+               "type": "url",
+               "url": "https://luciferdonghua.in/anime/remake-a-record-of-mortals-journey-to-immortality-mcb/"
+            }, {
+               "date_added": "13363907576000000",
+               "date_last_used": "0",
+               "guid": "5dab2346-b229-4b18-9f84-7eec389ef810",
+               "id": "675",
+               "name": "Anix - The Charm of Soul Pets Watch Anime Online",
+               "type": "url",
+               "url": "https://anix.to/anime/huan-chong-shi-n344k/ep-1"
+            }, {
+               "date_added": "13363907626000000",
+               "date_last_used": "0",
+               "guid": "ecb9f894-6d0e-4d48-a1e2-1f2e6123c058",
+               "id": "676",
+               "name": "Home - Anix - Watch Anime Online, Free Anime Streaming",
+               "type": "url",
+               "url": "https://anix.to/home"
+            }, {
+               "date_added": "13363907726000000",
+               "date_last_used": "0",
+               "guid": "ade02634-d557-458d-ad39-355d7a4cb286",
+               "id": "677",
+               "name": "SFlix | Watch HD Movies Online Free | TV Series & Stream Live",
+               "type": "url",
+               "url": "https://sflix.to/"
+            }, {
+               "date_added": "13363910528000000",
+               "date_last_used": "0",
+               "guid": "9163c747-ca85-4dbe-9c1e-4ae4ab2e9586",
+               "id": "678",
+               "name": "Anime Fights Break Sphere S1 Watch Online Free - Anix",
+               "type": "url",
+               "url": "https://anix.to/anime/battle-through-the-heavens-6kz4/ep-1"
+            }, {
+               "date_added": "13363911514000000",
+               "date_last_used": "0",
+               "guid": "2d258784-43f7-42b7-956f-81706a867433",
+               "id": "679",
+               "name": "Watch Botched full HD on SFlix Free",
+               "type": "url",
+               "url": "https://sflix.to/tv/free-botched-hd-38567"
+            } ],
+            "date_added": "13364178464027021",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "6c6e042d-3525-45a1-b228-d76028abf462",
+            "id": "667",
+            "name": "animestuff",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363209614000000",
+               "date_last_used": "0",
+               "guid": "85cd175f-6096-4d3d-8cfa-acde2d167bbc",
+               "id": "681",
+               "name": "Adobe Illustrator 2022 (v26.3.1) Multilingual :: Варез от m0nkrus'a [Warez by m0nkrus]",
+               "type": "url",
+               "url": "https://w14.monkrus.ws/2022/05/adobe-illustrator-2022-v2631.html#more"
+            } ],
+            "date_added": "13364178464027581",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9fe7c979-6296-42c8-929b-d2b603a25f4f",
+            "id": "680",
+            "name": "torrent",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363633532000000",
+               "date_last_used": "0",
+               "guid": "bc15bdf6-07e1-4b4f-80b9-c70497be0834",
+               "id": "684",
+               "name": "(96) Naruto - Sadness and Sorrow - Recorder Flute Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=yo6vzQ0L48I"
+            } ],
+            "date_added": "13364178464027691",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9407f291-34e0-403b-bbb4-c920b85cc04e",
+            "id": "683",
+            "name": "flute songs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363748077000000",
+               "date_last_used": "0",
+               "guid": "cd6c4816-b4d1-48ac-9fa0-9c1cb22acbe4",
+               "id": "686",
+               "name": "dotfiles/Previews/Preview1.png at main · BHlmaoMSD/dotfiles",
+               "type": "url",
+               "url": "https://github.com/BHlmaoMSD/dotfiles/blob/main/Previews/Preview1.png"
+            }, {
+               "date_added": "13363748131000000",
+               "date_last_used": "0",
+               "guid": "d603d069-e677-4926-870f-e03faa8cba76",
+               "id": "687",
+               "name": "7KIR7/dots: my dotfiles",
+               "type": "url",
+               "url": "https://github.com/7KIR7/dots"
+            }, {
+               "date_added": "13363748270000000",
+               "date_last_used": "0",
+               "guid": "83e0e1b7-a19f-4791-bf31-07a611871a7f",
+               "id": "688",
+               "name": "AXWTV/Hyprland-DotFiles: Hyprland DotFiles",
+               "type": "url",
+               "url": "https://github.com/AXWTV/Hyprland-DotFiles?tab=readme-ov-file"
+            }, {
+               "date_added": "13363748293000000",
+               "date_last_used": "0",
+               "guid": "10c339b3-f7f8-4f26-a7a1-a3a77cc435de",
+               "id": "689",
+               "name": "AXWTV/Hyprland-DotFiles: Hyprland DotFiles",
+               "type": "url",
+               "url": "https://github.com/AXWTV/Hyprland-DotFiles"
+            }, {
+               "date_added": "13363748329000000",
+               "date_last_used": "0",
+               "guid": "e7af454e-7cad-4aaf-be7e-4159af789d18",
+               "id": "690",
+               "name": "brunoanesio/waybar-config: Config for waybar",
+               "type": "url",
+               "url": "https://github.com/brunoanesio/waybar-config"
+            }, {
+               "date_added": "13363748374000000",
+               "date_last_used": "0",
+               "guid": "41c82683-dd89-4148-9340-2b7348a3f4af",
+               "id": "691",
+               "name": "xrce/Hotfiles: My desktop configuration files",
+               "type": "url",
+               "url": "https://github.com/xrce/Hotfiles"
+            }, {
+               "date_added": "13363748480000000",
+               "date_last_used": "0",
+               "guid": "534e9a70-38da-463e-8e08-d6eb2f14354d",
+               "id": "692",
+               "name": "lepz0r/owlphin: Rounded Waybar config",
+               "type": "url",
+               "url": "https://github.com/lepz0r/owlphin"
+            } ],
+            "date_added": "13364178464027754",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "26282b87-9c7e-473d-9bef-ec3c2897d3bd",
+            "id": "685",
+            "name": "waybar",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363749495000000",
+               "date_last_used": "0",
+               "guid": "8918c4f2-3f3a-4601-8a29-81043eb64057",
+               "id": "694",
+               "name": "wlogout · GitHub Topics",
+               "type": "url",
+               "url": "https://github.com/topics/wlogout"
+            }, {
+               "date_added": "13363749537000000",
+               "date_last_used": "0",
+               "guid": "c41761c9-f28c-48fd-99f1-4555e6b0c785",
+               "id": "695",
+               "name": "nabakdev/dotfiles: My ArchLinux setup",
+               "type": "url",
+               "url": "https://github.com/nabakdev/dotfiles"
+            }, {
+               "date_added": "13363749566000000",
+               "date_last_used": "0",
+               "guid": "88b4ce3e-94f4-4b52-a603-9e2af050b15d",
+               "id": "696",
+               "name": "zDyanTB/HyprNova: My hyprland dotfiles",
+               "type": "url",
+               "url": "https://github.com/zDyanTB/HyprNova"
+            } ],
+            "date_added": "13364178464028067",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "04960f31-70d7-4a12-9810-267ccbcaea6f",
+            "id": "693",
+            "name": "wlogout",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363749980000000",
+               "date_last_used": "13364762248848798",
+               "guid": "6735b9ba-3cca-4a18-9a9c-421658a2271f",
+               "id": "698",
+               "name": "Terminal graphics protocol - kitty",
+               "type": "url",
+               "url": "https://sw.kovidgoyal.net/kitty/graphics-protocol/"
+            }, {
+               "date_added": "13364176146000000",
+               "date_last_used": "13364762381874552",
+               "guid": "6e21a0e8-4779-4f8c-af02-10c3b8cf11ab",
+               "id": "699",
+               "name": "[kde] its simple but i love it : r/unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1drfnc0/kde_its_simple_but_i_love_it/"
+            }, {
+               "date_added": "13364176284000000",
+               "date_last_used": "13364762276302586",
+               "guid": "f00ed6e3-d0a7-4ad8-9a67-14070009d26e",
+               "id": "700",
+               "name": "[Gnome] Voilà : r/unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1dr55pw/gnome_voil%C3%A0/"
+            }, {
+               "date_added": "13364743216786687",
+               "date_last_used": "13364762563022194",
+               "guid": "a831de92-8868-43f1-b9fd-22319a37bce8",
+               "id": "714",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "dot-files/fastfetch/pngs at main · 2SSK/dot-files",
+               "type": "url",
+               "url": "https://github.com/2SSK/dot-files/tree/main/fastfetch/pngs"
+            } ],
+            "date_added": "13364178464028179",
+            "date_last_used": "0",
+            "date_modified": "13364743313408701",
+            "guid": "8afbcc77-0dcb-4b25-afa7-920f39dd2186",
+            "id": "697",
+            "name": "kitty images",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13363883428000000",
+               "date_last_used": "0",
+               "guid": "0203634f-1b9d-42fe-9e45-01ac779f313e",
+               "id": "702",
+               "name": "[WIP] Migrating to Yazi v0.3.0 · Issue #1046 · sxyazi/yazi",
+               "type": "url",
+               "url": "https://github.com/sxyazi/yazi/issues/1046"
+            } ],
+            "date_added": "13364178464028346",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "7d1db4ca-087c-4002-aa98-88f1af03f018",
+            "id": "701",
+            "name": "yazi",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13364176008000000",
+               "date_last_used": "0",
+               "guid": "855dc1a7-c8ca-48a3-b0dd-6b0576fc355a",
+               "id": "704",
+               "name": "[Qtile] Love it : r/unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1dmrkjr/qtile_love_it/#lightbox"
+            }, {
+               "date_added": "13364176453000000",
+               "date_last_used": "13366056408139124",
+               "guid": "78f798d5-7381-4595-ae15-dbe66df0582b",
+               "id": "705",
+               "name": "[Hyprland] Gruvbox Material is the best : r/unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1dquqfp/hyprland_gruvbox_material_is_the_best/"
+            }, {
+               "date_added": "13364176592000000",
+               "date_last_used": "13366056449669557",
+               "guid": "dad1fffb-50e3-4f63-9bf2-46154976376e",
+               "id": "706",
+               "name": "[Cinnamon] Tested out different DEs and Cinnamon feels the most comfortable. : r/unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1dqw16y/cinnamon_tested_out_different_des_and_cinnamon/"
+            }, {
+               "date_added": "13364177490000000",
+               "date_last_used": "13366056586602217",
+               "guid": "13ca892f-2815-4b38-b58d-39d45db84761",
+               "id": "707",
+               "name": "r/unixporn - the home for *NIX customization!",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1dofro9/hyprland_minimal_but_stable_and_very_functional/"
+            }, {
+               "date_added": "13364743313408701",
+               "date_last_used": "13366050931296878",
+               "guid": "b4d89cbb-b775-4305-bc50-7b0f217f6de9",
+               "id": "715",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[XFCE] My First Rice : r/unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/1dw7by2/xfce_my_first_rice/"
+            } ],
+            "date_added": "13364178464028405",
+            "date_last_used": "0",
+            "date_modified": "13364756480393942",
+            "guid": "cffff2af-b854-44a6-a488-b3450d11f206",
+            "id": "703",
+            "name": "unixporn",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13364756480393942",
+               "date_last_used": "13364762181716559",
+               "guid": "de5b5293-c666-4fba-9c6c-4bafb991a09d",
+               "id": "716",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ziontee113/icon-picker.nvim: This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis",
+               "type": "url",
+               "url": "https://github.com/ziontee113/icon-picker.nvim"
+            }, {
+               "date_added": "13364834208502606",
+               "date_last_used": "0",
+               "guid": "f8fad519-d6e5-4318-aabd-dd8e2a490708",
+               "id": "719",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "adwaita-icon-theme/Adwaita/16x16/emblems at master · GNOME/adwaita-icon-theme",
+               "type": "url",
+               "url": "https://github.com/GNOME/adwaita-icon-theme/tree/master/Adwaita/16x16/emblems"
+            } ],
+            "date_added": "13364756546392766",
+            "date_last_used": "0",
+            "date_modified": "13364836999896677",
+            "guid": "aa94f990-59f8-4c96-b730-6ead5c5526ab",
+            "id": "717",
+            "name": "nvim icons",
+            "type": "folder"
+         } ],
+         "date_added": "13363889838093529",
+         "date_last_used": "0",
+         "date_modified": "13365873479890392",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13364398005716710",
+            "date_last_used": "0",
+            "guid": "a3809837-809b-420f-8f1e-0e35a8b8fca2",
+            "id": "709",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Install Arch Linux on Raspberry Pi | Linuxize",
+            "type": "url",
+            "url": "https://linuxize.com/post/how-to-install-arch-linux-on-raspberry-pi/"
+         }, {
+            "date_added": "13364446808985261",
+            "date_last_used": "0",
+            "guid": "9482812d-1b55-4e1e-943b-ecc1031aae1a",
+            "id": "711",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Raspberry Pi Setup Guide (Arch Linux ARM)",
+            "type": "url",
+            "url": "https://gist.github.com/ajouellette/4e28439295506010032f"
+         }, {
+            "date_added": "13364503241780863",
+            "date_last_used": "0",
+            "guid": "9c8e0efe-40a4-4b21-80d8-9c1609602dae",
+            "id": "712",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+            "type": "url",
+            "url": "https://www.nerdfonts.com/cheat-sheet"
+         } ],
+         "date_added": "13363889838093532",
+         "date_last_used": "0",
+         "date_modified": "13364743216786687",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13363889838093534",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

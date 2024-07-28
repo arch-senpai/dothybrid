@@ -1,0 +1,52 @@
+{
+  "layer": "top", // Waybar at top layer
+  // "position": "bottom", // Waybar position (top|bottom|left|right)
+  "height": 30, // Waybar height (to be removed for auto height)
+  //"width": 1898, // Waybar width
+  //"width": 1350, // Waybar width
+  "spacing": 4, // Gaps between modules (4px)
+  //"margin": 0,
+  //"reload_style_on_change": true,
+    
+  //"passthrough": true,
+  // "reload_style_on_change": true,
+
+  // load modules
+  "include": ["~/.config/waybar/themes/darth-malu/modules_waybar.json"],
+
+  // Choose the order of the modules-left
+  "modules-left": [
+  "hyprland/workspaces",
+    //"wlr/taskbar",
+    //"custom/swap_workspace",
+    "hyprland/window",
+  ],
+
+  "modules-center": [
+  "hyprland/submap"
+  ],
+
+  "modules-right": [
+    "group/links",
+    "custom/updates",
+    "custom/weather",
+    "tray",
+    //"idle_inhibitor",
+    //"mpris",
+    "mpris",
+    "group/conglo",
+    //"load",
+    //"network",sss
+    "group/perfomance",
+    //"pulseaudio/slider",
+    //"group/media",
+    //"custom/notification"
+    "wireplumber",
+    "clock",
+    "temperature",
+    "custom/wleave"
+  ]
+}
+
+
+

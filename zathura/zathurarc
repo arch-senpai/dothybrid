@@ -1,0 +1,8 @@
+set database-backend "sqlite"
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+map u scroll half-up
+map d scroll half-down
+map p print
+map i recolor

@@ -1,0 +1,75 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/images/128.png"
+      },
+      "default_popup": "/popup.html",
+      "default_title": "Screenshot-master"
+   },
+   "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+   },
+   "commands": {
+      "all_page_capture": {
+         "description": "Capture all page",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+         }
+      },
+      "start_record": {
+         "description": "Start record",
+         "suggested_key": {
+            "default": "Ctrl+Shift+V",
+            "mac": "Command+Shift+V"
+         }
+      },
+      "stop_record": {
+         "description": "Stop record",
+         "suggested_key": {
+            "default": "Ctrl+Shift+K",
+            "mac": "Command+Shift+K"
+         }
+      },
+      "visible_area_capture": {
+         "description": "Capture visible area",
+         "suggested_key": {
+            "default": "Ctrl+Shift+S",
+            "mac": "Command+Shift+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "/static/css/content.css" ],
+      "js": [ "/js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "/images/128.png",
+      "32": "/images/32.png",
+      "64": "/images/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi4tDlWXxUgSdLPO7223gmXCl14uJdOwONJ0ZcmLQh/Yz5D0IG+HqTiXGgCUYRTTg2/6Mu7kBmXEoVrpvlH2yTI6c8qmzw0j130oQx/JspzDBOr0G+LSCLtuoIxXg+dqBtPYFId1t4sKyezWdp944sHIjAhg9P7IOoKC5y8tK4xbLAg+938/Szkc+dc8OLUshD1WVagCirDOIs1n6KawJDEfE9bsU9RwDplUjMU6JD+rDeaRQ2Bc9M+tGm29upjt2t0qbFq0KseN4u7txJuG7/q5a1zRIlg4eJFCyU3C1srj5HQPXQUdFAVYPXZJRkea/0wi0hgkLapir2AAQE3Q2MQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "oauth2": {
+      "client_id": "611183891591-u422itolvuraq3ib51469tualv3cbo6u.apps.googleusercontent.com",
+      "client_secret": "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",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/drive.file" ]
+   },
+   "offline_enabled": true,
+   "permissions": [ "tabs", "\u003Call_urls>", "activeTab", "storage", "unlimitedStorage", "alarms", "desktopCapture", "identity" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.8",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "index.html", "static/media/*.gif", "static/media/*.ttf" ]
+   } ]
+}

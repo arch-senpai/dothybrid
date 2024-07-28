@@ -1,0 +1,12 @@
+2024/07/24-13:45:23.614 cf4 Reusing MANIFEST /home/stickyfluid/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/07/24-13:45:23.617 cf4 Recovering log #498
+2024/07/24-13:45:23.677 cf4 Reusing old log /home/stickyfluid/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000498.log 
+2024/07/24-13:55:24.858 ce4 Level-0 table #503: started
+2024/07/24-13:55:24.871 ce4 Level-0 table #503: 331608 bytes OK
+2024/07/24-13:55:24.875 ce4 Delete type=0 #498
+2024/07/24-14:10:25.622 ce4 Compacting 1@1 + 1@2 files
+2024/07/24-14:10:25.631 ce4 Generated table #504@1: 6 keys, 66767 bytes
+2024/07/24-14:10:25.631 ce4 Compacted 1@1 + 1@2 files => 66767 bytes
+2024/07/24-14:10:25.634 ce4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-14:10:25.634 ce4 Delete type=2 #500
+2024/07/24-14:10:25.634 ce4 Delete type=2 #503

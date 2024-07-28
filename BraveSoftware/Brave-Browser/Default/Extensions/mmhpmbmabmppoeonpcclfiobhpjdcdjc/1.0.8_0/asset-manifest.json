@@ -1,0 +1,22 @@
+{
+  "index.css": "/static/css/index.css",
+  "index.js": "/js/index.js",
+  "background.js": "/js/background.js",
+  "content.css": "/static/css/content.css",
+  "content.js": "/js/content.js",
+  "static/media/AnimatedEmojies-512px-247.gif": "/static/media/AnimatedEmojies-512px-247.c78ff8979e238ce35fe1.gif",
+  "static/media/AnimatedEmojies-512px-491.gif": "/static/media/AnimatedEmojies-512px-491.e5fb543ad2b0d16382d3.gif",
+  "static/media/AnimatedEmojies-512px-401.gif": "/static/media/AnimatedEmojies-512px-401.eec80c9a04305aebee94.gif",
+  "static/media/AnimatedEmojies-512px-402.gif": "/static/media/AnimatedEmojies-512px-402.5b6759423d6d853ca3a3.gif",
+  "static/media/AnimatedEmojies-512px-229.gif": "/static/media/AnimatedEmojies-512px-229.cb5382468efcf6fadca6.gif",
+  "static/media/AnimatedEmojies-512px-384.gif": "/static/media/AnimatedEmojies-512px-384.4c02ab76916b8752559f.gif",
+  "static/media/AnimatedEmojies-512px-392.gif": "/static/media/AnimatedEmojies-512px-392.3aa71b1ebc5be19a689d.gif",
+  "static/media/Nunito-VariableFont_wght.ttf": "/static/media/Nunito-VariableFont_wght.4a3eef3e0a61b7eb3eda.ttf",
+  "popup.html": "/popup.html",
+  "index.html": "/index.html",
+  "index.css.map": "/static/css/index.css.map",
+  "index.js.map": "/js/index.js.map",
+  "background.js.map": "/js/background.js.map",
+  "content.css.map": "/static/css/content.css.map",
+  "content.js.map": "/js/content.js.map"
+}

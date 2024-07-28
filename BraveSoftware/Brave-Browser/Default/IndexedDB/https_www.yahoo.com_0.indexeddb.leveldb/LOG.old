@@ -1,0 +1,6 @@
+2024/06/30-22:45:25.552 2623 Creating DB /home/stickyfluid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.yahoo.com_0.indexeddb.leveldb since it was missing.
+2024/06/30-22:45:25.557 2623 Reusing MANIFEST /home/stickyfluid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/30-22:45:33.870 2624 Level-0 table #5: started
+2024/06/30-22:45:33.873 2624 Level-0 table #5: 4269 bytes OK
+2024/06/30-22:45:33.876 2624 Delete type=0 #3
+2024/06/30-22:45:33.876 2624 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
